@@ -24,7 +24,7 @@ ipconfig /flushdns
 pause
 cls
 
-// shutdown \s \t 
+REM shutdown \s \t 
 
 pause
 cls
